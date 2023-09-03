@@ -1,0 +1,11 @@
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\bin\Debug\RDO_mission_timer.exe.config
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\bin\Debug\RDO_mission_timer.exe
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\bin\Debug\RDO_mission_timer.pdb
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.csproj.AssemblyReference.cache
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.frmMain.resources
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.Properties.Resources.resources
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.csproj.GenerateResource.cache
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.csproj.CoreCompileInputs.cache
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.exe
+C:\Users\krsak\source\repos\RDO_mission_timer\RDO_mission_timer\obj\Debug\RDO_mission_timer.pdb
